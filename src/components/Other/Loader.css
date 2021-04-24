@@ -1,0 +1,28 @@
+.loader{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 250px;
+    padding-top: 50px;
+}
+.loading{
+    text-align: center;
+    color: #ee9ca7;
+}
+.errorBtn{
+    background-color: #df8490;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 3px 4px 5px rgba(0,0,0,0.25);
+    margin-top:50px;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+    margin-left: 340px;
+}
+.errorBtn:hover{
+    background-color: #fff;
+    color: #df8490;
+}

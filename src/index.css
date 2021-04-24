@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #ffdde196;
+}
+button {
+  outline: none;
+}
+
+@media (max-width: 480px) {
+.MealItem_img__1bl0m{
+  display: none !important;
+}.HeaderCartButton_button__2mF_z{
+  font-weight: normal !important;
+  padding:10px !important  
+}
+h1{
+  
+  font-size:medium;
+}
+}
